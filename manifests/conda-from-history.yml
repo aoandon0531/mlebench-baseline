@@ -1,0 +1,8 @@
+name: /mnt/hdd1/wangtianxing/mlebench-baseline/env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - conda-forge::git-lfs
+prefix: /mnt/hdd1/wangtianxing/mlebench-baseline/env
